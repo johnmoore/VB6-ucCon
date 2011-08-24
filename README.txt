@@ -1,14 +1,5 @@
-Home page: http://www.programiscellaneous.com/programming-projects/uccon/what-is-it/
-
-Documentation available at http://programiscellaneous.com/programming-projects/uccon/documentation/
-Source available at http://github.com/johnmoore/VB6-ucCon
-
-=====
-
 ucCon for Visual Basic 6, a user control designed to make HTTP requests easy
 Copyright (C) 2010 John Moore & Mike Campbell
-
-http://www.programiscellaneous.com/programming-projects/uccon/what-is-it/
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
